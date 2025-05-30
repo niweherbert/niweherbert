@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/niweherbert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niweherbert" height="30" width="40" /></a>
 </p>
 
-## Toolbox
+## 📦 Toolbox
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
@@ -56,5 +56,11 @@
 
 ### CMS & Platforms
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat) 
+
+### AI Tools
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?logo=cursor&logoColor=white&style=flat)
+
 
