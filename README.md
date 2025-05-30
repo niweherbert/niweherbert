@@ -21,6 +21,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)
+![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000000?logo=vercel&logoColor=white&style=flat)
 
 ###  Backend Development
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
