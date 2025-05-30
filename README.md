@@ -52,3 +52,8 @@
 ###  Design Tools
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobexd&logoColor=white&style=flat)
+
+### CMS & Platforms
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
+
