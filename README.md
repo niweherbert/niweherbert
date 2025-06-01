@@ -61,6 +61,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/n_herbert1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="n_herbert1" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/herbert-niwe-ntihemuka-1118a92b0"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niweherbert" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/herbert-niwe-ntihemuka-1118a92b0" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niweherbert" height="30" width="40" />
+</a>
+
 </p>
 
