@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niweherbert&label=Profile%20views&color=0e75b6&style=flat" alt="niweherbert" /> </p>
 
-
-- 👨‍💻 All of my projects are available at [https://niweherbert.github.io/MY-PORTOFOLIO/](https://niweherbert.github.io/MY-PORTOFOLIO/)
-
 - 📫 How to reach me **niweherbert@gmail.com**
 
 ## 📦 Toolbox
