@@ -37,7 +37,7 @@
 ###  Mobile Development
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat)
+
 
 ###  Embedded Systems
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white&style=flat)
